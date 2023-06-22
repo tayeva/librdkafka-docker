@@ -9,3 +9,7 @@ Find the version of `librdkafka` that you would like to build and provide it as 
 For example:
 
 `./build.sh 2.1.1`
+
+## Examples
+
+There is an example of a simple producer-consumer application utilizing this docker image [here](https://github.com/tayeva/librdkafka-examples-cpp/tree/main/simple-producer-consumer).
